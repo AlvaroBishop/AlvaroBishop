@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/93887465/206966032-9e9c2926-f9e8-457e-a652-01b4ce3cf419.png)
+![image](https://user-images.githubusercontent.com/93887465/206967537-f25c1400-caf6-4870-91ec-cfca78f6a17e.png)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlvaroBishop&layout=compact&theme=dark"/>
 
