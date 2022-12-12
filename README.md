@@ -1,2 +1,5 @@
-<img src="https://images.unsplash.com/photo-1511914265872-c40672604a80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"/>
-<img src="https://github-readme-stats.vercel.app/api?username=AlvaroBishop&show_icons=true"/>
+![image](https://user-images.githubusercontent.com/93887465/206966032-9e9c2926-f9e8-457e-a652-01b4ce3cf419.png)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlvaroBishop&layout=compact&theme=dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AlvaroBishop&show_icons=true&theme=dark"/>
