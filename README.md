@@ -1,8 +1,4 @@
-
-
-
-![image](https://user-images.githubusercontent.com/93887465/206972273-ac400c9a-8330-4047-a37b-4d975019507d.png)
-
+# A simple programmer <br/><br/>
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 ![rsz_1nicepng_unity-png_2025786](https://user-images.githubusercontent.com/93887465/206969495-8fb9fa6b-a6eb-467e-9995-bda2b9cb9b8d.png)
