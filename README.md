@@ -11,9 +11,9 @@
   A simple programmer
 </h1>
  <br/>
-<h4 align="center" style="margin-bottom: 0px !important;">
+<h2 align="center" style="margin-bottom: 0px !important;">
   Hard Skills
-</h4>
+</h2>
 <div align="center" >
 
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
