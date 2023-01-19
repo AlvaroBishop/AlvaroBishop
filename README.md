@@ -22,14 +22,21 @@
 
 </div>
 
-
+<br/>
 <div align="center" >
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlvaroBishop&layout=compact&theme=dark"/>
+  
 
+</div>
+<br/>
+<div align="center" >
+
+  
   <img src="https://github-readme-stats.vercel.app/api?username=AlvaroBishop&show_icons=true&theme=dark"/>
 
 </div>
+<br/>
     
 
 
