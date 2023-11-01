@@ -23,17 +23,18 @@
 </div>
 
 <br/>
+
 <div align="center" >
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlvaroBishop&layout=compact&theme=dark"/>
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroBishop&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <br/>
 <div align="center" >
 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroBishop&show_icons=true&theme=dark"/>
 
 </div>
 <br/>
