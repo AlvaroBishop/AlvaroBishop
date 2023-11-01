@@ -10,7 +10,11 @@
 <h1 align="center">
   A simple programmer
 </h1>
- <br/>
+<div align="center" >
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroBishop\&rank_icon=github\&include_all_commits=true\&theme=dark)
+
+</div>
 <h2 align="center" style="margin-bottom: 0px !important;">
   Hard Skills
 </h2>
@@ -31,12 +35,7 @@
 
 </div>
 <br/>
-<div align="center" >
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroBishop\&rank_icon=github\&include_all_commits=true\&theme=dark)
-
-</div>
-<br/>
     
 
 
