@@ -36,7 +36,7 @@
 <div align="center" >
 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroBishop&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroBishop&layout=donut-vertical&theme=dark&langs_count=8&hide=jupyter%20notebook,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <br/>
