@@ -1,3 +1,4 @@
+
 <div align="center" >
 
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93887465/206977383-3b85b422-7f9b-4002-88a9-47470eab271c.gif)
@@ -8,13 +9,26 @@
 
 
 <h1 align="center">
-  A simple programmer
+  Machine Learning Engineer | Data Scientist | AI Specialist
 </h1>
-<div align="center" >
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroBishop\&rank_icon=github\&include_all_commits=true\&theme=dark)
+<p align="center" style="margin-bottom: 0px !important;">
+  Hi, my name is Alvaro Bishop Macias, I specialize in Machine Learning Engineering.
+</p>
+<p align="center" style="margin-bottom: 0px !important;">
+  I'm an AI enthusiast, I love everything related to it. I also love learning new things, I also love learning new things, which made me a great self-taught person.
+</p>
+<p align="center" style="margin-bottom: 0px !important;">
+  My goal is to contribute to society by building amazing ML/AI projects that solve real problems, so I will continue that path with joy and stress.
+</p>
+
+
+ <div align="center" >
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=AlvaroBishop&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
 <h2 align="center" style="margin-bottom: 0px !important;">
   Hard Skills
 </h2>
@@ -30,7 +44,19 @@
 
 </div>
 
+<h2 align="center" style="margin-bottom: 0px !important;">
+  GitHub Stats
+</h2>
+
 <br/>
+
+
+
+<div align="center" >
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroBishop\&rank_icon=github\&include_all_commits=true\&theme=dark)
+
+</div>
 
 <div align="center" >
 
