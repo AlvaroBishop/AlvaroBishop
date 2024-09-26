@@ -6,7 +6,7 @@
 
 <div align="center" >
 
- ![](https://view-counter.tobyhagan.com/?user={AlvaroBishop}&accent=10ff99&base=303030&flat=true&icon=true)
+ ![](https://view-counter.tobyhagan.com/?user={AlvaroBishop}&accent=109940&base=303030&flat=true&icon=true)
 
 </div>
 <h1 align="center">
