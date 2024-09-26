@@ -1,9 +1,4 @@
 
-<div align="center" >
-
-  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93887465/206977383-3b85b422-7f9b-4002-88a9-47470eab271c.gif)
-
-</div>
     
 
 
@@ -29,6 +24,12 @@
 
 </div>
 
+<div align="center" >
+
+  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93887465/206977383-3b85b422-7f9b-4002-88a9-47470eab271c.gif)
+
+</div>
+
 <h2 align="center" style="margin-bottom: 0px !important;">
   Hard Skills
 </h2>
@@ -46,6 +47,9 @@
 
 
 </div>
+
+
+
 
 <h2 align="center" style="margin-bottom: 0px !important;">
   GitHub Stats
