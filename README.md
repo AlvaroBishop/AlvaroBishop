@@ -3,6 +3,12 @@
 
 
 
+
+<div align="center" >
+
+  ![](https://komarev.com/ghpvc/?username=AlvaroBishop&color=brightgreen)
+
+</div>
 <h1 align="center">
   Machine Learning Engineer | Data Scientist | AI Specialist
 </h1>
