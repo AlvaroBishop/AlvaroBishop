@@ -6,7 +6,7 @@
 
 <div align="center" >
 
-  ![](https://komarev.com/ghpvc/?username=AlvaroBishop&color=brightgreen)
+ ![](https://view-counter.tobyhagan.com/?user={AlvaroBishop}&accent=10ff99&base=303030&flat=true&icon=true)
 
 </div>
 <h1 align="center">
